@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Risheek</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Hello!+I'm+Risheek;Welcome+to+my+GitHub!;I'm+a+Backend+Developer" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=460&lines=Hi+I'm+Risheek👋;Welcome+to+my+GitHub!;Backend+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+
 </p>
 
 ---
