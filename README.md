@@ -1,6 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Risheek</h1>
+<h1 align="center">Hi there 👋 </h1>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=460&lines=Hi+I'm+Risheek👋;Welcome+to+my+GitHub!;Backend+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+<p <img src="https://readme-typing-svg.herokuapp.com?font=Anton&size=28&duration=3500&pause=1000&color=FFEA00&center=true&vCenter=true&width=600&lines=Hi+I'm+Risheek+👋;Backend+Developer+%7C+Node.js+%7C+MongoDB;Clean+Architecture+%7C+Scalable+APIs" alt="Typing SVG" />
+ />
 
 </p>
 
