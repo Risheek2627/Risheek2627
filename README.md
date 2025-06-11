@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello!+I'm+Risheek;Welcome+to+my+GitHub!;I'm+a+Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFFF00&center=true&vCenter=true&width=435&lines=Hello!+I'm+Risheek;Welcome+to+my+GitHub!;I'm+a+Backend+Developer" />
 
 ---
 
