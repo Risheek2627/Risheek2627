@@ -1,24 +1,24 @@
+<h1 align="center">Hi 👋, I'm Risheek</h1>
+<h3 align="center">Backend Developer | Node.js & MongoDB</h3>
 
-<h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Risheek!;Backend+Developer+%7C+Node.js+%26+MongoDB;Crafting+clean+code+and+APIs+🚀" alt="Typing SVG" />
 </p>
-</h1>
 
+---
 
 ### 👨‍💻 About Me
-
-- 🔧 I'm a **Backend Developer** passionate about building scalable and efficient systems.
-- 🛠️ Skilled in **Node.js**, **Express.js**, **MongoDB**, and **MySQL** with a strong understanding of API design and backend architecture.
-- 📈 Actively working on real-world projects like **course platforms**, **authentication systems**, and **URL shorteners** to sharpen my development skills.
-- 🤝 Open to collaborating on meaningful projects in **web development**, **developer tooling**, **backend development** and **tech for good**.
+- 🔧 I'm a **Backend Developer** passionate about building scalable and efficient systems.  
+- 🛠 Skilled in **Node.js**, **Express.js**, **MongoDB**, and **MySQL** with a strong understanding of API design and backend architecture.  
+- 📈 Working on real-world projects like **course platforms**, **authentication systems**, and **URL shorteners**.  
+- 🤝 Open to collaborating on **web development**, **developer tooling**, and **tech for good** projects.  
 
 ---
 
 ### 🧾 Quick Bio
-- 🏡 Based in: **Karnataka, India**
-- 💼 Looking for: **Internships | Freelance | Open Source Contributions | Full Time work**
-- 🗓️ Available for: **Part-time ,Remote Roles & Full time**
+- 🏡 Based in: **Karnataka, India**  
+- 💼 Looking for: **Internships | Freelance | Open Source Contributions | Full Time Roles**  
+- 🗓️ Available for: **Part-time, Remote & Full-time**  
 
 ---
 
@@ -35,11 +35,10 @@
 ---
 
 ### 🛠️ Tech Stack
-
 #### Languages & Runtime
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### Frameworks & Libraries
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -54,7 +53,38 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Risheek2627&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats"/>
   <img src="https://streak-stats.demolab.com?user=Risheek2627&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak"/>
 </p>
+
+---
+
+### 🏆 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risheek2627&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+- [📚 Course Platform Backend](https://github.com/Risheek2627/course-platform)  
+  ![Node.js](https://img.shields.io/badge/Node.js-Backend-success)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
+
+- [🔗 URL Shortener](https://github.com/Risheek2627/url-shortener)  
+  ![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
+
+---
+
+### 🐍 Contribution Graph
+![snake gif](https://github.com/Risheek2627/Risheek2627/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Risheek2627&color=blueviolet&style=flat)
+![Followers](https://img.shields.io/github/followers/Risheek2627?label=Followers&style=social)
