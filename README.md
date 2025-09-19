@@ -54,5 +54,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=risheek-n&show_icons=true&theme=tokyonight" alt="Risheek's GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=risheek-n&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</p>
 
