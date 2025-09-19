@@ -69,18 +69,8 @@
 
 ---
 
-### 🚀 Featured Projects
-- [📚 Course Platform Backend](https://github.com/Risheek2627/course-platform)  
-  ![Node.js](https://img.shields.io/badge/Node.js-Backend-success)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
-
-- [🔗 URL Shortener](https://github.com/Risheek2627/url-shortener)  
-  ![Express](https://img.shields.io/badge/Express.js-API-lightgrey)
-
----
-
 ### 🐍 Contribution Graph
-![snake gif](https://github.com/Risheek2627/Risheek2627/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Risheek2627/Risheek2627/blob/main/dist/snake.svg)
 
 ---
 
